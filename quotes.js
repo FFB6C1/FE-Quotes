@@ -1,4 +1,4 @@
-{
+export const quotes = [
 	{
 		unit: "Byleth",
 		quotes: [
@@ -26,4 +26,4 @@
 			"Aha!"
 		]
 	}
-}
+]
